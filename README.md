@@ -1,5 +1,5 @@
-Recently turned data engineer with a background in academic research in evolutionary biology, via statistical programming in pharma.
-User of R, SQL, Python and SAS for work where there is a focus on data manipulation, visualisation and analysis, and learnt the basics of other languages including Java and Kotlin.
+Recently turned data engineer with >10 years experience as a researcher in evolutionary biology (which sparked an interest in data-oriented programming with R) and three years experience as a statistical programming in pharma.
+User of R, SQL, Python and SAS for work where there is a focus on data preparation, manipulation, visualisation and analysis, and learnt the basics of other languages including Java and Kotlin.
 Most coding projects focus on an interest in cycling and the Zwift training/racing platform, including experiments and analysis of different in-game equipment.
 
 
